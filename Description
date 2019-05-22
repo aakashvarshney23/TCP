@@ -1,0 +1,7 @@
+Write TCP client and server programs in Python that the
+client gets a set of integers and the length of the set as
+command line arguments. Then the client sends the set to
+the server. Afterward, the server computes the total, the
+highest number, the lowest number, and the mean (in float)
+of the set and sends the results to the client. Finally, the
+client receives the results and prints them out. 
